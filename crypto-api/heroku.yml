@@ -1,4 +1,4 @@
 build:
   git:
-    url: https://github.com/user/repo
+    url: https://github.com/wayland-i/api-practice/tree/main/crypto-api
     ref: main
